@@ -1,5 +1,5 @@
 # Deep Learning for Computer Vision practical course WS 2016/17
-# Rajat Jain
+# Avinash Kumar / Rajat Jain
 # Protein function prediction from 2D representation of 3D structure
 
 import logging
